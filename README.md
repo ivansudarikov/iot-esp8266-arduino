@@ -1,4 +1,4 @@
-# iot-eps8266-arduino
+# iot-esp8266-arduino
 This is kind of "driver" for IoT projects where it is required to combine ESP8266 and Arduino.
 AT-comands are used for controlling ESP8266 device.
 
